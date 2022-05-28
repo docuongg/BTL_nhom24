@@ -59,6 +59,7 @@ Nhóm môn học Lập trình web 04 - nhóm BTL 24
   |   |       |       ManagerController.java
   |   |       |       QuestionController.java
   |   |       |       RegisterController.java
+  |   |       |       SearchPostController.java
   |   |       |       VoteController.java
   |   |       |       
   |   |       +---model
@@ -123,7 +124,7 @@ Nhóm môn học Lập trình web 04 - nhóm BTL 24
 
 ##### 1.3 Các màn hình demo
 
-<img title="Trang chủ - danh sách câu hỏi" src="images_demo\trangchu.png" alt="" width="443">
+<img title="Trang chủ - danh sách câu hỏi" src="imgs\trangchu.png" alt="" width="443">
 
 <img title="Đăng kí" src="imgs\dangki.png" alt="" width="443">
 
@@ -144,6 +145,10 @@ Nhóm môn học Lập trình web 04 - nhóm BTL 24
 <img title="Quản lý câu hỏi/câu trả lời" src="imgs\qlcauhoicautraloi.png" alt="" width="443">
 
 <img title="Thống kê" src="imgs\thongke.png" alt="" width="443">
+
+<img title="Tìm Kiếm Bài Viết" src="imgs\timkiembaiviet" alt="" width="443">
+
+<img title="Lọc bài viết theo lĩnh vực" src="imgs\locbaiviettheolinhvuc.png" alt="" width="443">
 
 #### 2. Đóng góp của các thành viên
 
