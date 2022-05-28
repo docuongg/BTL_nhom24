@@ -163,7 +163,7 @@ Nhóm môn học Lập trình web 04 - nhóm BTL 24
 - Đỗ Ngọc Cường
   
   - Xoá câu hỏi, câu trả lời, bình luận.
-  - Quản lí người dùng, thống kê.
+  - Quản lí người dùng, thống kê dữ liệu theo tháng
   - Tìm kiếm bài viết
   - Lọc bài viết theo lĩnh vực
 
