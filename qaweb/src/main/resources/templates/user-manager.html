@@ -78,6 +78,17 @@
 						<td th:text="${i.questionCount()}"></td>
 						<td th:text="${i.answerCount()}"></td>
 						<td th:text="${i.commentCount()}"></td>
+						<td>
+							<a th:href="@{'#delete'+${i.id}}"> Delete </a>
+							<div th:id="${'delete'+i.id}" class="abc overlay">
+								<form class="dialog-body"
+									  th:action="@{'/manager/user-manager/delete/'+${i.id}}" method="POST">
+									<p>Are you sure you want to delete this user?</p>
+									<input type="submit" value="Yes" name="submit" class="btn btn-danger">
+									<input type="submit" value="No" name="submit" class="btn btn-primary">
+								</form>
+							</div>
+						</td>
 					</tr>
 				</tbody>
 			</table>

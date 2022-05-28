@@ -77,6 +77,18 @@ public class ManagerController {
 		return "redirect:/manager/user-manager";
 	}
 
+	@PostMapping("/user-manager/delete/{id}")
+	public String deleteUserProcess(@PathVariable("id") int id,
+									@RequestParam("submit") String value){
+		System.out.println(id);
+		System.out.println(value);
+
+		if (value.equalsIgnoreCase("yes")) {
+			userRepo.deleteById(id);
+		}
+
+		return "redirect:/manager/user-manager";
+	}
 	// Category manager
 
 	@GetMapping("/category-manager")
