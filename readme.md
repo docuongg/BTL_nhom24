@@ -40,7 +40,7 @@ Nhóm môn học Lập trình web 04 - nhóm BTL 24
 
 - Thiết kế CSDL
 
-<img title="CSDL" src="imgs\csdl.png" alt="" width="443" data-align="center">
+<img title="CSDL" src="images_demo\csdl.png" alt="" width="600" data-align="center">
 
 - Cấu trúc thư mục src của dự án
   
