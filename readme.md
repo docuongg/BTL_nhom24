@@ -123,7 +123,7 @@ Nhóm môn học Lập trình web 04 - nhóm BTL 24
 
 ##### 1.3 Các màn hình demo
 
-<img title="Trang chủ - danh sách câu hỏi" src="imgs\trangchu.png" alt="" width="443">
+<img title="Trang chủ - danh sách câu hỏi" src="images_demo\trangchu.png" alt="" width="443">
 
 <img title="Đăng kí" src="imgs\dangki.png" alt="" width="443">
 
