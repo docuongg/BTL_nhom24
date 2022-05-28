@@ -1,6 +1,9 @@
 ## Chủ đề: Hệ thống hỏi đáp online
 
 Nhóm môn học Lập trình web 04 - nhóm BTL 24
+  Đỗ Ngọc Cường - B19DCCN079
+  Nguyễn Thanh Hùng - B19DCCN299
+  Nguyễn Như Mạnh - B19DCCN421 
 
 #### 1. Mô tả dự án
 
