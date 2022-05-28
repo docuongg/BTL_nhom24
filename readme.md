@@ -146,9 +146,9 @@ Nhóm môn học Lập trình web 04 - nhóm BTL 24
 
 <img title="Thống kê" src="images_demo\thongke.png" alt="" width="443">
 
-<img title="Tìm Kiếm Bài Viết" src="images_demo\timkiembaiviet" alt="" width="443">
+<img title="Tìm Kiếm Bài Viết" src="images_demo\timkiembaiviet.png" alt="" width="600">
 
-<img title="Lọc bài viết theo lĩnh vực" src="images_demo\locbaiviettheolinhvuc.png" alt="" width="443">
+<img title="Lọc bài viết theo lĩnh vực" src="images_demo\locbaiviettheolinhvuc.png" alt="" width="600">
 
 #### 2. Đóng góp của các thành viên
 
