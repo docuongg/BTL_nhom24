@@ -124,27 +124,27 @@ Nhóm môn học Lập trình web 04 - nhóm BTL 24
 
 ##### 1.3 Các màn hình demo
 
-<img title="Trang chủ - danh sách câu hỏi" src="images_demo\trangchu.png" alt="" width="443">
+<img title="Trang chủ - danh sách câu hỏi" src="images_demo\trangchu.png" alt="" width="600">
 
-<img title="Đăng kí" src="images_demo\dangki.png" alt="" width="443">
+<img title="Đăng kí" src="images_demo\dangki.png" alt="" width="600">
 
-<img title="Đăng nhập" src="images_demo\dangnhap.png" alt="" width="443">
+<img title="Đăng nhập" src="images_demo\dangnhap.png" alt="" width="600">
 
-<img title="Đặt câu hỏi" src="images_demo\datcauhoi.png" alt="" width="443">
+<img title="Đặt câu hỏi" src="images_demo\datcauhoi.png" alt="" width="600">
 
-<img title="Chi tiết câu hỏi" src="images_demo\chitietcauhoi.png" alt="" width="443">
+<img title="Chi tiết câu hỏi" src="images_demo\chitietcauhoi.png" alt="" width="600">
 
-<img title="Trả lời câu hỏi" src="images_demo\traloicauhoi.png" alt="" width="443">
+<img title="Trả lời câu hỏi" src="images_demo\traloicauhoi.png" alt="" width="600">
 
-<img title="Bình luận" src="images_demo\comment.png" alt="" width="443">
+<img title="Bình luận" src="images_demo\comment.png" alt="" width="600">
 
-<img title="Quản lý người dùng" src="images_demo\qlnguoidung.png" alt="" width="443">
+<img title="Quản lý người dùng" src="images_demo\qlnguoidung.png" alt="" width="600">
 
-<img title="Quản lý lĩnh vực" src="images_demo\qllinhvuc.png" alt="" width="443">
+<img title="Quản lý lĩnh vực" src="images_demo\qllinhvuc.png" alt="" width="600">
 
-<img title="Quản lý câu hỏi/câu trả lời" src="images_demo\qlcauhoicautraloi.png" alt="" width="443">
+<img title="Quản lý câu hỏi/câu trả lời" src="images_demo\qlcauhoicautraloi.png" alt="" width="600">
 
-<img title="Thống kê" src="images_demo\thongke.png" alt="" width="443">
+<img title="Thống kê" src="images_demo\thongke.png" alt="" width="600">
 
 <img title="Tìm Kiếm Bài Viết" src="images_demo\timkiembaiviet.png" alt="" width="600">
 
