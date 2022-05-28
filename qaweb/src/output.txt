@@ -1,0 +1,72 @@
+Folder PATH listing
+Volume serial number is F20B-34E3
+C:.
+|   output.txt
+|   
++---main
+|   +---java
+|   |   \---qaweb
+|   |       |   QawebApplication.java
+|   |       |   
+|   |       +---controller
+|   |       |       AnswerController.java
+|   |       |       AskController.java
+|   |       |       CommentController.java
+|   |       |       IndexController.java
+|   |       |       LoginController.java
+|   |       |       ManagerController.java
+|   |       |       QuestionController.java
+|   |       |       RegisterController.java
+|   |       |       VoteController.java
+|   |       |       
+|   |       +---model
+|   |       |       Category.java
+|   |       |       Comment.java
+|   |       |       Post.java
+|   |       |       User.java
+|   |       |       Vote.java
+|   |       |       
+|   |       \---repository
+|   |               CategoryRepository.java
+|   |               CommentRepository.java
+|   |               PostRepository.java
+|   |               UserRepository.java
+|   |               VoteRepository.java
+|   |               
+|   \---resources
+|       |   application.properties
+|       |   
+|       +---static
+|       |   |   script.js
+|       |   |   styles.css
+|       |   |   
+|       |   \---simplemde
+|       |           simplemde.min.css
+|       |           simplemde.min.js
+|       |           
+|       \---templates
+|               answer.html
+|               ask.html
+|               category-manager.html
+|               comment.html
+|               confirm-delete-post.html
+|               edit-answer.html
+|               edit-comment.html
+|               edit-question.html
+|               error.html
+|               index.html
+|               login.html
+|               manager.html
+|               post-manager.html
+|               post.html
+|               question-detail.html
+|               register.html
+|               statistics.html
+|               user-manager.html
+|               user.html
+|               
+\---test
+    \---java
+        \---qaweb
+                QawebApplicationTests.java
+                

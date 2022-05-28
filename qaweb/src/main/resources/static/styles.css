@@ -1,0 +1,92 @@
+:root {
+    --bs-light-rgb: 245,246,247;
+}
+
+.small {
+	font-size: 14px;
+}
+
+img {
+	max-width: 400px;
+	max-height: 400px;
+}
+
+.word-break {
+	text-align: justify;
+	text-justify: auto;
+	-ms-word-break: break-all;
+	word-break: break-all;
+	/* Non standard for webkit */
+	word-break: break-word;
+	-webkit-hyphens: auto;
+	-moz-hyphens: auto;
+	hyphens: auto;
+}
+
+table, th, td {
+	border: 0.1px solid;
+	border-collapse: collapse;
+	border-color: rgba(50, 50, 50, 0.2);
+}
+
+th, td {
+	padding: 8px;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.abc {
+	position: fixed;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	z-index: 1500;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	visibility: hidden;
+}
+
+.abc:target {
+	visibility: visible;
+}
+
+.overlay {
+	background-color: rgba(0, 0, 0, 0.7);
+}
+
+.dialog-body {
+	max-width: 400px;
+	position: relative;
+	padding: 16px;
+	background-color: #fff;
+}
+
+.float-right {
+	float: right;
+}
+
+.divider:after,
+.divider:before {
+    content: "";
+    flex: 1;
+    height: 1px;
+    background: #eee;
+}
+.h-custom {
+    height: calc(100% - 73px);
+}
+@media (max-width: 450px) {
+    .h-custom {
+        height: 100%;
+    }
+}
+
+.vh-90 {
+    margin-top:48px;
+}
