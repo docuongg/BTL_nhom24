@@ -124,31 +124,31 @@ Nhóm môn học Lập trình web 04 - nhóm BTL 24
 
 ##### 1.3 Các màn hình demo
 
-<img title="Trang chủ - danh sách câu hỏi" src="imgs\trangchu.png" alt="" width="443">
+<img title="Trang chủ - danh sách câu hỏi" src="images_demo\trangchu.png" alt="" width="443">
 
-<img title="Đăng kí" src="imgs\dangki.png" alt="" width="443">
+<img title="Đăng kí" src="images_demo\dangki.png" alt="" width="443">
 
-<img title="Đăng nhập" src="imgs\dangnhap.png" alt="" width="443">
+<img title="Đăng nhập" src="images_demo\dangnhap.png" alt="" width="443">
 
-<img title="Đặt câu hỏi" src="imgs\datcauhoi.png" alt="" width="443">
+<img title="Đặt câu hỏi" src="images_demo\datcauhoi.png" alt="" width="443">
 
-<img title="Chi tiết câu hỏi" src="imgs\chitietcauhoi.png" alt="" width="443">
+<img title="Chi tiết câu hỏi" src="images_demo\chitietcauhoi.png" alt="" width="443">
 
-<img title="Trả lời câu hỏi" src="imgs\traloicauhoi.png" alt="" width="443">
+<img title="Trả lời câu hỏi" src="images_demo\traloicauhoi.png" alt="" width="443">
 
-<img title="Bình luận" src="imgs\comment.png" alt="" width="443">
+<img title="Bình luận" src="images_demo\comment.png" alt="" width="443">
 
-<img title="Quản lý người dùng" src="imgs\qlnguoidung.png" alt="" width="443">
+<img title="Quản lý người dùng" src="images_demo\qlnguoidung.png" alt="" width="443">
 
-<img title="Quản lý lĩnh vực" src="imgs\qllinhvuc.png" alt="" width="443">
+<img title="Quản lý lĩnh vực" src="images_demo\qllinhvuc.png" alt="" width="443">
 
-<img title="Quản lý câu hỏi/câu trả lời" src="imgs\qlcauhoicautraloi.png" alt="" width="443">
+<img title="Quản lý câu hỏi/câu trả lời" src="images_demo\qlcauhoicautraloi.png" alt="" width="443">
 
-<img title="Thống kê" src="imgs\thongke.png" alt="" width="443">
+<img title="Thống kê" src="images_demo\thongke.png" alt="" width="443">
 
-<img title="Tìm Kiếm Bài Viết" src="imgs\timkiembaiviet" alt="" width="443">
+<img title="Tìm Kiếm Bài Viết" src="images_demo\timkiembaiviet" alt="" width="443">
 
-<img title="Lọc bài viết theo lĩnh vực" src="imgs\locbaiviettheolinhvuc.png" alt="" width="443">
+<img title="Lọc bài viết theo lĩnh vực" src="images_demo\locbaiviettheolinhvuc.png" alt="" width="443">
 
 #### 2. Đóng góp của các thành viên
 
@@ -156,20 +156,17 @@ Nhóm môn học Lập trình web 04 - nhóm BTL 24
   
   - Xoá câu hỏi, câu trả lời, bình luận.
   - Quản lí người dùng, thống kê.
-  - 
+  - Tìm kiếm bài viết
+  - Lọc bài viết theo lĩnh vực
 
 - Nguyễn Thanh Hùng
   
   - Đăng kí/Đăng nhập, đổi mật khẩu.
-  
   - Thêm câu hỏi, câu trả lời, bình luận.
-  
   - Thêm, sửa, xoá đánh giá.
-  
   - Quản lí câu hỏi/câu trả lời.
 
 - Nguyễn Như Mạnh
   
   - Sửa câu hỏi, câu trả lời, bình luận.
-  
   - Quản lý  lĩnh vực.
