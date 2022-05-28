@@ -14,6 +14,10 @@ Nhóm môn học Lập trình web 04 - nhóm BTL 24
 
 - Đánh giá câu hỏi, câu trả lời.
 
+- Tìm kiếm câu hỏi với từ khóa.
+
+- Lọc câu hỏi theo danh mục.
+
 - Với người dùng là quản trị:
   
   - Quản lý người dùng: 
@@ -35,6 +39,10 @@ Nhóm môn học Lập trình web 04 - nhóm BTL 24
     - Sửa tên lĩnh vực.
     
     - Xoá lĩnh vực chưa có câu hỏi nào.
+
+  - Thống kê dữ liệu :
+
+    - Thống kê số lượng tài khoản đăng kí, số bài viết, số câu trả lời, số bình luận theo tháng.
 
 ##### 1.2 Thiết kế hệ thống
 
